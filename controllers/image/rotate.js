@@ -19,7 +19,7 @@ async function applyRotate({
   await image.writeAsync(newPath);
   return newPath;
 }
-
+// Bla
 
 module.exports = {
   applyRotate,
