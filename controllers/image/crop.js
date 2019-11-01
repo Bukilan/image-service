@@ -20,7 +20,7 @@ async function applyCrop({
   await image.writeAsync(newPath);
   return newPath;
 }
-
+//bla
 
 module.exports = {
   applyCrop,
