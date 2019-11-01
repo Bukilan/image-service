@@ -1,0 +1,6 @@
+[submodule "lodash"]
+	path = lodash
+	url = https://github.com/lodash/lodash
+[submodule "axios"]
+	path = axios
+	url = https://github.com/axios/axios
