@@ -20,7 +20,7 @@ async function applyResize({
   await image.writeAsync(newPath);
   return newPath;
 }
-
+// Bla
 
 module.exports = {
   applyResize,
