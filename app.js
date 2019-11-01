@@ -10,3 +10,5 @@ app.use('/api', require('./routes/api.route'));
 app.listen(process.env.PORT, () => {
   log(`Listening on ${process.env.PORT}`);
 });
+
+console.log('aaa');
